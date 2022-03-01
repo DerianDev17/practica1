@@ -1,3 +1,17 @@
+.cabecera{
+    border: 2px solid #000;
+    margin: auto;
+    margin-bottom: 2px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+.lista li{
+    font-size: 17px;
+    flex: 1;
+}
 #contenedor{
     border: 2px solid rgb(153, 51, 144);
     width: 30%;
